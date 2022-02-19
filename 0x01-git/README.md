@@ -1,7 +1,8 @@
-# This is alx intoduction to git
+# This is a modification of my README file
+
 This introduces the potential ***Software Engineer*** to the basic of git and github.
 
-## Tasks 1: Repo-session
+## Tasks 1: To make changes from github then get the changes for further modification on git
 
 
 ## Mandatory
