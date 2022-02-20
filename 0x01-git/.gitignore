@@ -1,3 +1,9 @@
+# Create the file
+~/.gitignore_global
+
+# Add the file to the Git configuration
+git config --global core.excludesfile ~/.gitignore_global
+
 # Ignore the node_modules directory
 node_modules/
 
